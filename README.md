@@ -1,2 +1,59 @@
-# study-route
-plan
+## 学习计划
+### css
+- [bootstrap](http://www.bootcss.com/)
+- [sass](http://www.sasschina.com/)
+- [flat ui](http://www.bootcss.com/p/flat-ui/)
+- [jquery ui](http://www.jqueryui.org.cn/)
+- [animate.css](https://daneden.github.io/animate.css/)
+- [vue](https://vuejs.bootcss.com/):
+  - [element](http://element.eleme.io/#/)
+  - [iview](https://www.iviewui.com/)
+  - [mint ui](http://www.miniui.com/docs/tutorial/)
+- [reactjs](https://facebook.github.io/react/):
+  - [Material-UI](http://www.material-ui.com/)
+  - [Semantic-UI](https://semantic-ui.com/)
+  - [react-bootstrap](https://react-bootstrap.github.io/)
+
+### mobile:
+- iconic
+### js:
+- yarn
+- webpack
+- nodejs
+- jquery
+- vuejs
+- angularjs
+- reactjs
+### php:
+- laravel
+- yii2
+- symfony
+- cakephp3
+### cms:
+- octobercms
+- wordpress
+- joomla
+- drupal
+- grav
+### templates:
+- liquid
+- twig
+- Boilerplate
+### message middleware:
+- RabbitMQ
+- Kafka
+### data:
+- python
+- spark
+### ruby:
+- rails
+### golang:
+- hugo
+### docker:
+### vagrant:
+### python:
+- django-cms
+- flask
+- scrapy
+- tornado
+### elasticsearch
